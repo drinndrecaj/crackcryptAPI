@@ -31,7 +31,7 @@ python crackcrypt.py [--hash HASH | --input FILE] --alg ALGORITHM [--output FILE
 
 - -H, --hash     Single hex-encoded hash to check  
 - -i, --input    Path to a file containing one hash per line  
-- -a, --alg      Hash algorithm (e.g. md5, sha1, sha256) **(required)**  
+- -a, --alg      Hash algorithm (e.g. md5, sha1, ntlm) **(required)**  
 - -o, --output   Optional path to write JSON results; if omitted, prints to stdout  
 
 ## Examples
